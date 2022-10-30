@@ -4,6 +4,8 @@
 
 Refactored existing html and css code in order to improve both readability and overall tidiness.
 
+![Finished website image](Develop/assets/images/website-image.png "Website Screenshot")
+
 ##1.)Installation:
 
     Feel free to simply clone this git repo: 
@@ -12,8 +14,6 @@ Refactored existing html and css code in order to improve both readability and o
 
 ##2.)Usage:
     
-    Website screencap:
-    ![Finished website image](Develop/assets/images/website-image.png "Website Screenshot")
     
     Simply open the cloned index.html document as well as the style.css document in your preferred
     text editor and feel free to look about.

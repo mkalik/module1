@@ -10,6 +10,9 @@ Refactored existing html and css code in order to improve both readability and o
 
 2.)Usage:
     
+    Website screencap:
+    ![Finished website image](/Develop/assets/website-image.png?raw=true "Website Screenshot")
+    
     Simply open the cloned index.html document as well as the style.css document in your preferred
     text editor and feel free to look about.
     
